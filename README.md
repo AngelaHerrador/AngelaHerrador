@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-https://raw.githubusercontent.com/AngelaKP3012/AngelaHerrador/function/Profile-background.png
+https://raw.githubusercontent.com/AngelaHerrador/AngelaHerrador/master/assets/Profile-background.png
+https://raw.githubusercontent.com/AngelaHerrador/ProyectOne_Game/master/assets/img/README/Iteración1.png
