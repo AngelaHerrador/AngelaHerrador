@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-https://raw.githubusercontent.com/AngelaHerrador/AngelaHerrador/function/assets/Profile-background.png
-
+![alt background-image](https://github.com/AngelaHerrador/AngelaHerrador/blob/function/assets/Profile-background.png?raw=true)
