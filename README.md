@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt background-image](https://github.com/AngelaHerrador/AngelaHerrador/blob/function/assets/Profile-background.png?raw=true)
+![Brain](https://github.com/AngelaHerrador/AngelaHerrador/blob/function/assets/Profile-background.png?raw=true)
+
 
 :rocket: const technologies = ['NodeJS', 'Express', 'React', 'MongoDB', 'Javascript', 'HTML', 'CSS', 'Handlebars']
 
-:eyes: Show more about me in ![ [Linkedin](https://www.seekpng.com/png/detail/30-301979_logo-for-website-linkedin-logo-vector-free-download.png) ](www.linkedin.com/in/angela-herrador-developer)
+:eyes: Show more about me in ![[Linkedin](https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png) ](www.linkedin.com/in/angela-herrador-developer)
 
 
