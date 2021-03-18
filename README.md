@@ -1,4 +1,4 @@
-### Hi, I'm Ángela 👋
+### Hi, I'm Ángela, a Full Stack Developer 👋
 
 <!--
 **AngelaHerrador/AngelaHerrador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![alt background-image](https://github.com/AngelaHerrador/AngelaHerrador/blob/function/assets/Profile-background.png?raw=true)
+
+
+
