@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 :rocket: const technologies = ['NodeJS', 'Express', 'React', 'MongoDB', 'Javascript', 'HTML', 'CSS', 'Handlebars']
 
-:eyes: Show more about me in ![[Linkedin](https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png) ](www.linkedin.com/in/angela-herrador-developer)
+:eyes: Show more about me in ![[Linkedin]](www.linkedin.com/in/angela-herrador-developer)
 
 
