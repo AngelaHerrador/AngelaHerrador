@@ -1,4 +1,4 @@
-### Hi, I'm Ángela, a Full Stack Developer 👋
+### Hi, I'm Ángela 👋
 
 <!--
 **AngelaHerrador/AngelaHerrador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 ![alt background-image](https://github.com/AngelaHerrador/AngelaHerrador/blob/function/assets/Profile-background.png?raw=true)
 
+:rocket: const technologies = ['NodeJS', 'Express', 'React', 'MongoDB', 'Javascript', 'HTML', 'CSS', 'Handlebars']
+
+:eyes: Show more about me in ![ [Linkedin](https://www.seekpng.com/png/detail/30-301979_logo-for-website-linkedin-logo-vector-free-download.png) ](www.linkedin.com/in/angela-herrador-developer)
 
 
