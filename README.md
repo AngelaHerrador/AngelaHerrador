@@ -15,6 +15,6 @@
 <br />
 <br />
 
-:ok_woman: Show more about me in [<img align="center" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](www.linkedin.com/in/angela-herrador-developer)
+:ok_woman: Show more about me in [<img align="center" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](<a href="https://www.linkedin.com/in/angela-herrador-developer/">)
 <br />
 
