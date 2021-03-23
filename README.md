@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="Presentation" width="500px" src="https://github.com/AngelaHerrador/AngelaHerrador/blob/function/assets/videoGit (1).gif?raw=true" />
   <img alt="Brain" width="100%" src="https://github.com/AngelaHerrador/AngelaHerrador/blob/function/assets/Profile-background.png?raw=true" />
+  <img alt="Presentation" width="500px" src="https://github.com/AngelaHerrador/AngelaHerrador/blob/function/assets/videoGit (1).gif?raw=true" />
 </p>
 
 #### About me:
