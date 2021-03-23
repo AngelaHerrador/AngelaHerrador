@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 ![Brain](https://github.com/AngelaHerrador/AngelaHerrador/blob/function/assets/Profile-background.png?raw=true)
 
 
-#:rocket:  let technologies = [
-
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+# :rocket:  let technologies = [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="NODE" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -34,6 +32,6 @@ Here are some ideas to get you started:
 
 
 
-#:eyes: Show more about me in [<img align="center" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](www.linkedin.com/in/angela-herrador-developer)
+# :eyes: Show more about me in [<img align="center" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](www.linkedin.com/in/angela-herrador-developer)
 
 
